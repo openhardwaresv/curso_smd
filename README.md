@@ -19,7 +19,7 @@ fácilmente ser demostradas con LEDs incluídos.
 
 Al estar basada en Leonardo la tableta también permite utilizarse como
 dispositivo de entrada (teclado o mouse) con lo que se le pueden dar
-aplicaciones sumamente interesantes.
+aplicaciones sumamente interesantes de interacción con computador.
 
 Esta es una tableta didáctica diseñada con la idea de aprender las bases
 del diseño utilizando componentes de montaje superficial por lo que se

@@ -6118,7 +6118,7 @@ Standard schematic elements and footprints for 5mm, 3mm, 1206, and 0603 sized LE
 <part name="GND1" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 <part name="C1" library="SparkFun-Capacitors" deviceset="0.1UF-50V-20%(PTH)" device="KIT-EZ" value="0.1uF"/>
 <part name="GND2" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
-<part name="Q1" library="special" deviceset="XTAL/S" device=""/>
+<part name="Q1" library="special" deviceset="XTAL/S" device="" value="16Mhz"/>
 <part name="C2" library="SparkFun-Capacitors" deviceset="0.1UF-50V-20%(PTH)" device="KIT-EZ" value="18pF"/>
 <part name="C3" library="SparkFun-Capacitors" deviceset="0.1UF-50V-20%(PTH)" device="KIT-EZ" value="18pF"/>
 <part name="GND3" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
