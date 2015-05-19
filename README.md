@@ -1,4 +1,4 @@
-﻿SensorDuino - Iniciandote con Componentes de Montaje Superficial
+﻿Sensorino - Iniciandote con Componentes de Montaje Superficial
 ================================================================
 
 Sensorino es una tableta electrónica programable compatible con
