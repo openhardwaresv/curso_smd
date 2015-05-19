@@ -3,9 +3,9 @@
 
 Sensorino es una tableta electrónica programable compatible con
 Arduino Leonardo impulsada por la comunidad OpenHardware.SV diseñada
-por TeUbi.co y ALSW para enseñar los fundamentos básicos sobre el
-diseño de tabletas electrónicas haciendo uso de componentes de
-montaje superficial.
+en colaboración por TeUbi.co y ALSW para enseñar los fundamentos
+básicos sobre el diseño de tabletas electrónicas haciendo uso de
+componentes de montaje superficial.
 
 La tableta es basada en el microcontrolador ATMega32u4 y contiene
 el bootloader de Leonardo, pero además incluye sensores y LEDs
